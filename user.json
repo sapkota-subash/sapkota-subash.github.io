@@ -1,0 +1,26 @@
+[
+ {
+  "id": 1,
+  "company": "kalidevi",
+  "device": [
+   "R58JA61NK4P",
+   "xxx"
+  ],
+  "MoU": "2023-Jan-20",
+  "deadline": "2024-Jan-20",
+  "password": "kalidevi123",
+  "expired": false
+ },
+ {
+  "id": 2,
+  "company": "kalidevi",
+  "device": [
+   "xxx",
+   "xxx"
+  ],
+  "MoU": "2023-Jan-20",
+  "deadline": "2024-Jan-20",
+  "password": "kalidevi123",
+  "expired": false
+ }
+]
