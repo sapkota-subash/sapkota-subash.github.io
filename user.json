@@ -13,7 +13,7 @@
  },
  {
   "id": 2,
-  "company": "kalidevi",
+  "company": "kalidevixx",
   "device": [
    "xxx",
    "xxx"
@@ -21,6 +21,6 @@
   "MoU": "2023-Jan-20",
   "deadline": "2024-Jan-20",
   "password": "kalidevi123",
-  "expired": false
+  "expired": true
  }
 ]
