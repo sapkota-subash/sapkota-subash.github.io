@@ -16,15 +16,15 @@
  },
  {
   "id": 2,
-  "company": "kalideviX",
+  "company": "tripura",
   "device": [
-   "5336b716086621bf",
-   "xxx"
+   "2016cfa07d58e788",
+   "9f2b29919ebe3f5d"
   ],
-  "MoU": "2023-Jan-20",
-  "deadline": "2024-Jan-20",
-  "password": "kalidevi123",
-  "expired": true
+  "MoU": "2024-Feb-09",
+  "deadline": "2025-Jan-01",
+  "password": "sundari",
+  "expired": false
  },
 {
   "id": 3,
